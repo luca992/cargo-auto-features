@@ -1,0 +1,8 @@
+product: jvm/lib
+
+settings:
+  jvm:
+    release: 21
+
+test-dependencies:
+  - $kotlin.test
